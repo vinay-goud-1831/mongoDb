@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "3.7",
+    "mongoose": "^8.5.3",
+    "nodemon": "^3.1.4"
+  },
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "## Non relational DB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-goud-1831/mongoDb.git"
+  },
+  "author": "Vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay-goud-1831/mongoDb/issues"
+  },
+  "homepage": "https://github.com/vinay-goud-1831/mongoDb#readme"
+}
